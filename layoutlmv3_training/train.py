@@ -127,4 +127,4 @@ metrics = trainer.evaluate()
 
 # Model kaydet
 trainer.save_model("./layoutlmv3_invoice_ocr")
-tokenizer.save_pretrained("./ayoutlmv3_invoice_ocr")
+tokenizer.save_pretrained("./layoutlmv3_invoice_ocr")
