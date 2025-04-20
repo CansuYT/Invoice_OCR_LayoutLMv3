@@ -15,7 +15,10 @@ Projenin adımları şöyledir:
 - 3. Özel etiketler ve hazırlanan veriseti ile LayoutLM modeli eğitilir (fine-tune edilir).
 - 4. Eğitilen model ile faturadan istenilen bilgiler çıkartılarak rapor edilir.
 
-Sonuç olarak bu projede amaç, performansı yüksek LayoutLMv3 modelini, kendi verisetimize uyaralayarak kişiselleştirilmiş bir fatura bilgi çıkarım modeli oluşturmaktır.  
+Sonuç olarak bu projede amaç, performansı yüksek LayoutLMv3 modelini, kendi verisetimize uyaralayarak kişiselleştirilmiş bir fatura bilgi çıkarım modeli oluşturmaktır.
+
+Örnek çıktı formatı:
+<img width="838" alt="Ekran Resmi 2025-04-20 19 19 36" src="https://github.com/user-attachments/assets/a4246022-85c4-4b80-a596-63cac16d4f2f" />
 
 *Proje, beklenen performansı genellikle sağlıyor ancak bazı durumlarda daha iyi sonuçlar elde edilebilir. Geliştirmeler yapılarak daha yüksek doğruluklar elde edilebilir.*
 
